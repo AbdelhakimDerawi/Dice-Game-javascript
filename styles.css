@@ -1,0 +1,43 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+main {
+    width: 600px;
+    height: 400px;
+    text-align: center;
+    font-family: "Roboto Mono", monospace;
+    margin: 0 auto;
+    background-color: rgb(210, 210, 210);
+    padding: 40px;
+}
+body {
+    padding-top: 50px;
+  
+}
+h2{
+    font-family: "Roboto Mono", monospace;
+    font-size: 20px;  
+
+}
+
+.dice{
+    margin-top: 80px;
+    color: white;
+}
+
+button{
+    color: black;
+    background-color: rgb(93, 204, 255);
+    border: none;
+    padding: 20px;
+    font-family: "Roboto Mono", monospace;
+    font-size: 20px;
+    margin-top: 80px;
+    cursor: pointer;
+}
+
+img{
+    width: 128px;
+    height: 128px;
+}
